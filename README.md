@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on [RuX](https://github.com/sh-navid/RuX) a hobby project focused on simulating robotic systems
+- 🔭 I’m currently working on [RuX](https://github.com/sh-navid/RuX) a hobby project focused on simulating robotic systems.
 ![](https://github.com/sh-navid/RuX/raw/master/Documents/Screenshots/ARobot.png)
+- 🌱 Currently learning concepts related to AI
 
 <!--
 **sh-navid/sh-navid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
