@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![](https://github.com/sh-navid/RuX/raw/master/Documents/Screenshots/ARobot.png)
+![]([https://github.com/sh-navid/RuX/raw/master/Documents/Screenshots/ARobot.png](https://github.com/sh-navid/RuX/raw/master/Documents/Screenshots/V3_PointCloud.png))
 - 🔭 I’m currently working on [RuX](https://github.com/sh-navid/RuX) a hobby project focused on simulating robotic systems.
 
 <!--
