@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+- 🔭 I’m currently working on [RuX](https://github.com/sh-navid/RuX) a hobby project focused on simulating robotic systems
 ![](https://github.com/sh-navid/RuX/raw/master/Documents/Screenshots/ARobot.png)
 
 <!--
