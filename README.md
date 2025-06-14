@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-![](https://github.com/sh-navid/RuX/raw/master/Documents/Screenshots/V3_PointCloud.png)
-- 🔭 I’m currently working on [RoboCity(RuX)](https://github.com/sh-navid/RuX) a hobby project focused on simulating robotic systems.
+![](https://github.com/sh-navid/NabotX/blob/master/showcase/V02.png)
+- 🔭 I’m currently working on [NaBotX](https://github.com/sh-navid/NaBotX) a simple code assistant.
 
 <!--
 **sh-navid/sh-navid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
