@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 
-<img src="https://github.com/sh-navid/NabotX/blob/master/showcase/V04.png" alt="NabotX Showcase" width="200">
+<center>
+  <img src="https://github.com/sh-navid/NabotX/blob/master/showcase/V04.png" alt="NabotX Showcase" width="200">
+</center>
 - 🔭 I’m currently working on [NaBotX](https://github.com/sh-navid/NaBotX) a simple code assistant.
 
 <!--
