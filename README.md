@@ -2,7 +2,7 @@
 
 
 <center>
-  <img src="https://github.com/sh-navid/NabotX/blob/master/showcase/V04.png" alt="NabotX Showcase" width="200">
+  <img src="https://github.com/sh-navid/NabotX/blob/master/showcase/V05.png" alt="NabotX Showcase">
 </center>
 - 🔭 I’m currently working on [NaBotX](https://github.com/sh-navid/NaBotX) a simple code assistant.
 
